@@ -1,0 +1,28 @@
+{
+  "name": "cboland",
+  "version": "1.0.0",
+  "description": " Claire Boland cloudinary automation script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyodejiO/cboland.git"
+  },
+  "keywords": [
+    "Cloudinary",
+    "Claire",
+    "Boland",
+    "Watermark"
+  ],
+  "author": "Sam Odukoya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyodejiO/cboland/issues"
+  },
+  "homepage": "https://github.com/AyodejiO/cboland#readme",
+  "dependencies": {
+    "cloudinary-core": "^2.11.4"
+  }
+}
