@@ -2,9 +2,11 @@
   "name": "cboland",
   "version": "1.0.0",
   "description": " Claire Boland cloudinary automation script",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -23,6 +25,10 @@
   },
   "homepage": "https://github.com/AyodejiO/cboland#readme",
   "dependencies": {
-    "cloudinary-core": "^2.11.4"
+    "cloudinary-core": "^2.11.4",
+    "requirejs": "^2.3.6"
+  },
+  "devDependencies": {
+    "jest": "^27.0.4"
   }
 }
