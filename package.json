@@ -26,6 +26,7 @@
   "homepage": "https://github.com/AyodejiO/cboland#readme",
   "dependencies": {
     "cloudinary-core": "^2.11.4",
+    "dotenv": "^10.0.0",
     "requirejs": "^2.3.6"
   },
   "devDependencies": {
